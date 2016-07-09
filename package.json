@@ -1,0 +1,25 @@
+{
+  "name": "image-api",
+  "version": "1.0.1",
+  "description": "Basic skeleton for post / get",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluedragon9958/node_api_skeleton"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Chad Russell",
+  "license": "UNLICENSED"
+}
